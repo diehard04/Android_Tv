@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.androidtv"
+    tools:ignore="MissingLeanbackLauncher">
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/mobileTheme"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name=".firebase.FirebaseBannnerActivity"
+            android:exported="true" />
+<!--        <activity-->
+<!--            android:name=".ui.MainActivity"-->
+<!--            android:banner="@drawable/app_icon_your_company"-->
+<!--            android:exported="true"-->
+<!--            android:icon="@drawable/app_icon_your_company"-->
+<!--            android:label="@string/app_name"-->
+<!--            android:logo="@drawable/app_icon_your_company"-->
+<!--            android:screenOrientation="landscape" /> &lt;!&ndash; <activity &ndash;&gt;-->
+<!--        &lt;!&ndash; android:name=".mobile.ads.FacebookNativeAdsActivity" &ndash;&gt;-->
+<!--        &lt;!&ndash; android:exported="false" /> &ndash;&gt;-->
+        <activity
+            android:name=".firebase.FirebaseNativeTamplatesActivity"
+            android:banner="@drawable/app_icon_your_company"
+            android:exported="true"
+            android:icon="@drawable/app_icon_your_company"
+            android:label="@string/app_name"
+            android:logo="@drawable/app_icon_your_company"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PlaybackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BrowseErrorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".verticalgridview.VerticalGridActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pagination.PagingSampleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".alignment.AlignmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".search.SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".search.SearchListActivity"
+            android:exported="false"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".ui.user.UserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".menuitems.MainTabsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".exoplayer.TvPlayerActivity"
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name=".mobile.ads.InstreamVideoAdActivity" -->
+        <!-- android:exported="true" -->
+        <!-- android:screenOrientation="portrait"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> &lt;!&ndash; Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 &ndash;&gt; -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/firebase_app_id" />
+    </application>
+
+</manifest>

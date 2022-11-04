@@ -1,0 +1,67 @@
+<?xml version=  "1.0" encoding=  "utf-8"?>
+<RelativeLayout xmlns:android=  "http://schemas.android.com/apk/res/android"
+    xmlns:app=  "http://schemas.android.com/apk/res-auto"
+    xmlns:tools=  "http://schemas.android.com/tools"
+    android:layout_width=  "match_parent"
+    android:layout_height=  "match_parent"
+    tools:context=  ".firebase.FirebaseNativeTamplatesActivity">
+
+    <!-- Template View for native ad -->
+    <com.google.android.ads.nativetemplates.TemplateView
+        android:layout_alignParentBottom= "true"
+        android:visibility= "gone"
+        android:id= "@+id/nativeTemplateView"
+        app:gnt_template_type= "@layout/gnt_medium_template_view"
+        android:layout_width= "match_parent"
+        android:layout_height= "wrap_content" />
+
+    <!-- vertical linear layout with 3  button -->
+    <LinearLayout
+        android:layout_centerInParent= "true"
+        android:layout_margin= "16dp"
+        android:orientation= "vertical"
+        android:layout_width= "match_parent"
+        android:layout_height= "wrap_content">
+
+        <!-- Simple Buttons to Load Native Ad when clicked -->
+        <Button
+            android:textSize= "24dp"
+            android:layout_margin= "8dp"
+            android:id= "@+id/loadNativeBtn"
+            android:text= "Load Native  Ad"
+            android:fontFamily= "serif"
+            android:textStyle= "bold"
+            android:textColor= "#ffffff"
+            android:background= "@color/gnt_blue"
+            android:layout_width= "match_parent"
+            android:layout_height= "60dp"/>
+
+        <!-- Simple Buttons to Show  Native Ad if is is loaded when clicked -->
+        <Button
+            android:textSize= "24dp"
+            android:layout_margin= "8dp"
+            android:id= "@+id/showNativeBtn"
+            android:text= "Show Native  Ad"
+            android:fontFamily= "serif"
+            android:textStyle= "bold"
+            android:textColor= "#ffffff"
+            android:background= "@color/gnt_blue"
+            android:layout_width= "match_parent"
+            android:layout_height= "60dp"/>
+
+        <!-- Simple Buttons to Hide  Native Ad if it is shown  -->
+        <Button
+            android:textSize= "24dp"
+            android:layout_margin= "8dp"
+            android:id= "@+id/hideNativeBtn"
+            android:text= "Hide Native  Ad"
+            android:fontFamily= "serif"
+            android:textStyle= "bold"
+            android:textColor= "#ffffff"
+            android:background= "@color/gnt_blue"
+            android:layout_width= "match_parent"
+            android:layout_height= "60dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

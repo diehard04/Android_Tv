@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/darker_gray_ripple.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/default_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/drawable_menu_hover.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/edit_focused_frame.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_add_circle_black_24dp.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_fowd.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_nav_bg_closed.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_nav_bg_open.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/ic_rev.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/menu_bg_no_focus.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/drawable/menu_bg_selector.xml" value="0.20885416666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_alignment.xml" value="0.18432971014492755" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_details.xml" value="0.17980072463768115" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_facebook__reward_ads.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_facebook_ads.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_facebook_native_ads.xml" value="0.1644021739130435" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_facebook_video_ads.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_firebase.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_firebase_interstisial_acitivity.xml" value="0.17844202898550723" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_firebase_native_tamplates.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_main.xml" value="0.16530797101449277" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_maintabs.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_menu.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_paging_sample.xml" value="0.18297101449275363" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_playback.xml" value="0.17481884057971014" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_search_list.xml" value="0.18659420289855072" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_search_rv.xml" value="0.17980072463768115" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_user.xml" value="0.1852355072463768" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/activity_video_example.xml" value="0.17980072463768115" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/add_playlist.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/card_subject.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/custom_card_view.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/custom_player_controller.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/example_item.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/exoplayer_view.xml" value="0.17391304347826086" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/fragment_home.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/fragment_paging.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/fragment_search.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/fragment_settings.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/item_layout.xml" value="0.17916666666666667" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/list_item.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/list_items.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/menu_layout.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/native_ad_layout.xml" value="0.18885869565217392" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/search_support.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/app/src/main/res/layout/vertical_grid.xml" value="0.18659420289855072" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/coroutine/src/main/res/layout/activity_long_running_task.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/coroutine/src/main/res/layout/activity_main.xml" value="0.1838768115942029" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/coroutine/src/main/res/layout/activity_paging.xml" value="0.1838768115942029" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/coroutine/src/main/res/layout/activity_parallel_network_calls.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/coroutine/src/main/res/layout/activity_recycler_view.xml" value="0.17844202898550723" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/coroutine/src/main/res/layout/item_layout.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/coroutine/src/main/res/layout/list_item.xml" value="0.19270833333333334" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/library/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/nativetemplates/src/main/res/layout/gnt_medium_template_view.xml" value="0.17119565217391305" />
+        <entry key="..\:/LTTS_PROJECTS/AndroidTv/nativetemplates/src/main/res/layout/gnt_small_template_view.xml" value="0.19270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
